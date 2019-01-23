@@ -1,5 +1,5 @@
 # kubernetes-images
-#替换成国内地址，并拉取镜像 \n 
+#替换成国内地址，并拉取镜像   
 docker pull mirrorgooglecontainers/kube-apiserver:v1.13.2  
 docker pull mirrorgooglecontainers/kube-controller-manager:v1.13.2  
 docker pull mirrorgooglecontainers/kube-scheduler:v1.13.2  
