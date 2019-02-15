@@ -1,1 +1,1 @@
-FROM mirrorgooglecontainers/kube-apiserver:v1.13.2
+FROM mirrorgooglecontainers/kube-apiserver:v1.13.0
